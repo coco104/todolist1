@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/infor/infor"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ca2100",
+    "navigationBarTitleText": "todolist",
+    "navigationBarTextStyle": "white"
+  }
+}

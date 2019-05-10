@@ -1,0 +1,14 @@
+/**index.wxss**/
+.place{
+    height: 120rpx;
+    width: 120rpx;
+    background-color: #d92a2a;
+    border-radius: 100%;
+    position: fixed;
+    bottom: 100rpx;
+    right: 320rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9;
+}
